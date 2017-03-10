@@ -1,0 +1,23 @@
+SMAP
+WaitingList_jsp.java
+JSP
+*S JSP
+*F
++ 0 WaitingList.jsp
+WaitingList.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
+*L
+5,97:59
+5#1,27:156
+101#0,3:182
+104:185,3
+105,17:188
+121:235,11
+122:246
+123,8:247,3
+131:271
+132:272,3
+133,2:275
+134,10:207
+*E
